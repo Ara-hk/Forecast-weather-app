@@ -69,8 +69,8 @@ main {
   height: 88px;
 }
 .weather-app-unit {
-  font-size: 6px;
-  margin-top: 16px;
+  font-size: 16px;
+  margin-top: 6px;
 }
 
 footer {
@@ -79,4 +79,21 @@ footer {
   text-align: center;
   font-size: 14px;
   color: rgba(0, 0, 0, 0.6);
+}
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+.weather-forecast-date {
+  font-size: 16px;
+  color: #f652f6;
+  opacity: 0.8;
+}
+.weather-forecast-temperature {
+  font-size: 13px;
+  color: #f652f6;
+}
+.weather-forecast-temperature-min {
+  opacity: 0.4;
 }
