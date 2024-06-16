@@ -97,3 +97,8 @@ footer {
 .weather-forecast-temperature-min {
   opacity: 0.4;
 }
+
+.weather-forecast {
+  display: flex;
+  justify-content: space-between;
+}
